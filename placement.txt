@@ -1,0 +1,55 @@
+<html>
+<head><title>Placement_Registration.html</title></head>
+<body>
+<hr>
+<center><h1>Placement Registration Form</h1> </center>
+<hr>
+<br>
+
+ <form action="Placement_Registration.html" method="post">
+
+<input type="radio" >
+<label>Student Id:</label>
+<input type="text" name="Student Id: " placeholder="Enter your Id">
+<br>
+<br>
+<label>First Name:</label>
+<input type="text" name="First Name: " placeholder="Enter First Name">
+<br><label>Last Name:</label>
+<input type="text" name="Last Name: " placeholder="Enter Last Name">
+<br><label>Username:</label>
+<input type="text" name="Username: " placeholder="Enter Username"&emps>
+<br>
+<label>Password:</label>
+<input type="password" name="Password:" placeholder="Enter password">
+<br>
+   
+
+
+
+
+<label>State: </label>
+<select>
+<option value="  ">Choose here
+<option value="Telangana ">Telangana
+<option value="AP ">AP
+<option value="Tamil Nadu ">Tamil Nadu
+<option value="Jammu & Kashmir">Jammu & Kashmir
+<option value="Karnataka  ">Karnataka
+
+
+</select>
+<br>
+
+
+<label>E-mail:   </label>
+<input type="text" name="E-mail:" placeholder="Enter your e-mail">
+<br><br>
+
+<center><input type="submit" name="Submit" value="submit"></center>
+
+
+</form>
+ </body>
+
+</html>
