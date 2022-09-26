@@ -1,0 +1,26 @@
+<head><title>vennela</title></head>
+<body>
+<center><h1><font color="blue" face="impact">Rajiv Gandhi Of Knowledge Technologies</font></h1><center>
+<hr>
+<hr>
+<br>
+<marquee direction="right" scrollamount="10" color="red" bgcolor="yellow">UG & PG ADMISSIONS</marquee>
+my computer
+<br>
+<center><img src= "C:\Users\student\Pictures" height="500" width="500"></center>
+<a href="https://www.rgukt.ac.in/">RGUKT Basar</a>
+<table border="2">
+<tr><th>S.No</th> <th>Name</th><th>Designation</th>
+<tr><th>01</th><td> Venkata Ramana</td><td>Vice Chancellor</td>
+<tr><th>02</th><td> Satish Kumar</td><td>Director</td>
+<tr><th>03</th><td>Sujoy Sarkaar</td><td>HOD of CSE Department</td>
+<tr><th>04</th><td>Srujana</td><td>Dean of Student Welfare</td>
+
+
+
+
+
+
+
+
+</body>
