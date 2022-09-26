@@ -8,7 +8,11 @@
 
  <form action="Placement_Registration.html" method="post">
 
-<input type="radio" >
+<center><input type="radio" name="Mr" >
+<label>Ms</label>
+<input type="radio" name="Ms" >
+<label>Mr</label><center/>
+<Br><br>
 <label>Student Id:</label>
 <input type="text" name="Student Id: " placeholder="Enter your Id">
 <br>
@@ -22,32 +26,20 @@
 <br>
 <label>Password:</label>
 <input type="password" name="Password:" placeholder="Enter password">
-<br>
-   
-
-
-
-
-<label>State: </label>
+<Br><br>
+<label>State:</label>
 <select>
-<option value="  ">Choose here
 <option value="Telangana ">Telangana
 <option value="AP ">AP
 <option value="Tamil Nadu ">Tamil Nadu
 <option value="Jammu & Kashmir">Jammu & Kashmir
-<option value="Karnataka  ">Karnataka
-
-
+<option value="Karnataka">Karnataka
 </select>
 <br>
-
-
-<label>E-mail:   </label>
+<label>E-mail: </label>
 <input type="text" name="E-mail:" placeholder="Enter your e-mail">
 <br><br>
-
 <center><input type="submit" name="Submit" value="submit"></center>
-
 
 </form>
  </body>
