@@ -1,1 +1,60 @@
+\title{Resume}
+\date{}
+\begin{document}
 
+\maketitle
+\begin{huge}
+{color{blue}{Details}}
+\end{huge}
+\textbf{Name: Errala Vennela}\\
+\newline
+\begin{flushright}
+\includegraphics[width=3cm,height=3cm]{Vennela.jpg}
+\end{flushright}
+\textbf{Address: H.No:3-38/1}\\
+\textbf{Venkteshwarlapally, Saidapur Mandal, Karimnagar Dist, Telangana.}\\
+ 
+\begin{huge}
+{\color{blue}{Education}
+\begin{center}
+\newline
+\end{huge}
+\begin{tabular}{|c|c|c|\hline}
+YEAR&CLASS&GPA\\
+\hline
+2018-2019&SSC&X\\
+\hline
+2019-2020&PUC-1&Y\\
+\hline
+2020-2021&PUC-2&Z\\
+\hline
+2021-2022&B-TECH, 1st year&-\\
+\hline
+\end{tabular}
+
+\newline
+\end{center}
+
+\begin{huge}
+{\color{blue}{ACHIEVEMENTS}}
+\begin{itemize}
+   \item Qualified in NNMS Test\\
+   \item Won several Quizzes\\
+   \item Won 1st Prize in Science at District Level\\
+\end{itemize} 
+
+\begin{huge}
+{\color{blue}{SKILLS}}
+\end{huge}
+\begin{itemize}
+    \item Good Communicator \\
+    \item Know Basics of Python \\
+\end{itemize}
+\begin{huge}
+\{color{blue}{HOBBIES}\\
+\end{huge}
+ \begin{itemize}
+      \item Reading short stories\\
+\end{itemize}
+ 
+\end{document}
