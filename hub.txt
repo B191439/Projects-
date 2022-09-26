@@ -10,7 +10,7 @@
 Welcome!
 <br>
 <center><img src= "download.jpeg " height="500" width="500"></center>
-<a href="https://www.rgukt.ac.in/awards.html">RGUKT Basar</a>
+<a href="https://www.rgukt.ac.in/awards.html">Click here to see the Awards!</a>
 <table border="2">
 <tr><th>S.No</th> <th>Name</th><th>Designation</th>
 <tr><th>01</th><td> Venkata Ramana</td><td>Vice Chancellor</td>
